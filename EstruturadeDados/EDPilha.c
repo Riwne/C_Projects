@@ -1,8 +1,6 @@
 
-// Riane Carla Gomes Alves
-// Matrícula: 508771
+//@Riwne
 
-// A opção pilha foi escolhida pois é útil já que irei
 // armazenar uma informalção temporariamente que vou usar logo depois. 
 
 
