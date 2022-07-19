@@ -1,8 +1,6 @@
-
 //@Riwne
 
 // armazenar uma informalção temporariamente que vou usar logo depois. 
-
 
 #include <stdio.h>
 #include <string.h>
