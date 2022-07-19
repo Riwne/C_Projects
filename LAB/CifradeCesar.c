@@ -1,6 +1,4 @@
-//Aluna: Riane Carla Gomes Alves 
-//Matricula: 508771
-//Turma 1
+//@Riwne
 
 #include <stdio.h>
 #include <string.h>
