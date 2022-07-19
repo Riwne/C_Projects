@@ -1,5 +1,4 @@
-// Riane Carla Gomes Alves
-// Matrícula: 508771
+
 
 #include<stdio.h>
 #include<stdlib.h>
